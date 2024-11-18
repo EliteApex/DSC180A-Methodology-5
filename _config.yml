@@ -4,3 +4,16 @@ plugins:
 
 sass:
   sass_dir: _sass
+
+
+title: Methodology Assignment 5
+author: Siddharth Vyasabattu
+description: A website for Methodology Assignment 5, Task 2.
+theme: minimal-mistakes
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+
